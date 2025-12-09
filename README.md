@@ -1,13 +1,15 @@
-# 🔮 ESP Remote Viewing Experiment
+# ESP Remote Viewing Experiment
 
 **An interactive web experience exploring intuition, perception, and the mysterious realm of extrasensory awareness.**
+
+<img width="1647" height="867" alt="remoteViewRhXI" src="https://github.com/user-attachments/assets/2dfd07d1-cf4d-4906-911c-731149e540e0" />
 
 This application challenges users to **“see beyond the veil”** by intuitively guessing a hidden number between 1 and 99.  
 After each guess, both the hidden number and the chosen number are revealed — along with how close the user’s perception came to the unseen truth.
 
 ---
 
-## 🌌 Features
+## Features
 
 - **Mystical ESP Theme** — Styled with a dark, occult-inspired design and glowing aura effects.  
 - **Random Number Generation** — A hidden value is psychically “transmitted” at the start of each round.  
@@ -19,7 +21,7 @@ After each guess, both the hidden number and the chosen number are revealed — 
 
 ---
 
-## 🧠 Concept
+## Concept
 
 > “This is not a game — it’s a test of your intuition.”
 
@@ -28,7 +30,7 @@ It merges web technology with the aesthetics of mysticism, evoking Ouija boards,
 
 ---
 
-## 🕸️ Technologies Used
+## Technologies Used
 
 - **HTML5**
 - **CSS3** (including Bootstrap framework)
@@ -39,7 +41,7 @@ It merges web technology with the aesthetics of mysticism, evoking Ouija boards,
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 1. **Clone this repository:**
    ```bash
